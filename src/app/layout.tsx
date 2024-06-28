@@ -1,6 +1,6 @@
 import { cn } from "@/lib/utils";
 
-import { Dock } from "@/components/dock";
+import { Dock } from "@/components/dock/dock";
 import type { Metadata } from "next";
 import { Be_Vietnam_Pro } from "next/font/google";
 import "./globals.css";
